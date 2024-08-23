@@ -24,7 +24,7 @@ This will install the latest `0.2.0` version.
 
 To create an `MultiChannelImage` object:
 
-Here we are creating a figure of a 5 channel Rat Hippocampal neuron image (Taken from ImageJ sample library):
+Here we are creating a figure of a 4 channel Rat Hippocampal neuron image (Taken from ImageJ sample library):
 ```python
 eximg = imread('Rat_Hippocampal_Neuron.tif')
 exim = MultiChannelImage(
