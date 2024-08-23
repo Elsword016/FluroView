@@ -1,5 +1,5 @@
 # Fluroview
-A Python package for visualization of biological data. It is built on top of matplotlib, allowing it to use all its functions. Fluroview is a simple way to generate beautiful and publication figures, especially for multi-channel images representing them as composite images similar to what can be 
+A Python package for visualization of biological data. It is built on top of matplotlib, allowing it to use all its functions. Fluroview is a simple way to generate beautiful and publication-ready figures, especially for multi-channel images representing them as composite images similar to what can be 
 achieved using an Image processing software like Fiji. Alongside generating figures, it also completes the figures with appropriate scalebars, titles and colormaps. 
 
 ## Installation:
