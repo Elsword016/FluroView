@@ -9,7 +9,7 @@ You can install this package directly from pip:
 pip install FluroView
 ```
 
-This will install the latest `0.2.0` version.
+This will install the latest `0.4.1` version.
 
 
 ## Main modules:
